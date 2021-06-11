@@ -1,0 +1,71 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ravtj\\Downloads\\SpecFlow.Plus.Examples-master\\SpecFlow.Plus.Examples-master\\SeleniumWebTest\\TestApplication.Web\\TestApplication.Web.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ravtj\\Downloads\\SpecFlow.Plus.Examples-master\\SpecFlow.Plus.Examples-master\\SeleniumWebTest\\TestApplication.Web\\TestApplication.Web.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ravtj\\Downloads\\SpecFlow.Plus.Examples-master\\SpecFlow.Plus.Examples-master\\SeleniumWebTest\\TestApplication.Web\\TestApplication.Web.csproj",
+        "projectName": "TestApplication.Web",
+        "projectPath": "C:\\Users\\ravtj\\Downloads\\SpecFlow.Plus.Examples-master\\SpecFlow.Plus.Examples-master\\SeleniumWebTest\\TestApplication.Web\\TestApplication.Web.csproj",
+        "packagesPath": "C:\\Users\\ravtj\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ravtj\\Downloads\\SpecFlow.Plus.Examples-master\\SpecFlow.Plus.Examples-master\\SeleniumWebTest\\TestApplication.Web\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ravtj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.Web.LibraryManager.Build": {
+              "target": "Package",
+              "version": "[2.1.113, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
